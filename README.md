@@ -1,6 +1,6 @@
-# Clean.sh - MacOS System Cleanup Script
+# Clean.sh - MacOS system cleanup shell script
 
-This shell script performs a cleanup of a macOS system by removing cache files, logs, and temporary data.
+This script cleans up a mac by removing cache files, logs, and temporary data.
 
 ## Usage
 
