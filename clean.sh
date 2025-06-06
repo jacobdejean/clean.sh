@@ -61,9 +61,6 @@ command -v cargo-cache >/dev/null && cargo-cache -a
 ## Delete cocoapod cache
 command -v pod >/dev/null && pod cache clean --all
 
-## Delete Docker cache
-command -v docker >/dev/null && docker system prune -af
-
 ## Delete Gradle cache
 rm -rf ~/.gradle/caches/*
 
